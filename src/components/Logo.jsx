@@ -8,6 +8,7 @@ const Logo = () => {
           <img
             src={LogoImg}
             alt="logo"
+            className="rounded"
           />
         </Link>
       </div>

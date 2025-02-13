@@ -7,9 +7,10 @@ function App() {
   return (
     <BrowserRouter>
       <div className="container">
-        <div className="row mt-2">
+        <div className="row ">
           <div className="col-sm-10">
             <Header />
+            <hr />
             <Routes />
           </div>
         </div>

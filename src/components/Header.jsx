@@ -8,7 +8,7 @@ const Header = () => {
       <div className="col-sm-4">
         <Logo />
       </div>
-      <div className="col-sm-8">
+      <div className="col-sm-8 d-flex justify-content-center">
         {menuItems.map((item, index) => {
           return (
             <MenuItem

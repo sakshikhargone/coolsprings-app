@@ -1,5 +1,24 @@
 @import url("bootstrap/dist/css/bootstrap.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Chewy&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400&display=swap");
 
 .App {
   text-align: center;
+}
+html,
+body {
+  background: linear-gradient(90deg, #004aa3, #006eb8, #0084c4);
+  color: #fff;
+}
+
+.font-chewy-regular {
+  font-family: "Chewy", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
 }
