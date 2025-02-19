@@ -3,6 +3,7 @@ import Home from "../pages/Home";
 import About from "../pages/About";
 import Contact from "../pages/Contact";
 import MyBookings from "../pages/MyBookings";
+import Gallery from "../pages/Gallery";
 
 const appRoutes = () => {
   return (
@@ -18,7 +19,12 @@ const appRoutes = () => {
         Component={Contact}></Route>
       <Route
         path="bookings"
-        Component={MyBookings}></Route>
+        Component={MyBookings}>
+        <Route
+          path="about/gallery"
+          Component={Gallery}
+        />
+      </Route>
     </Routes>
   );
 };

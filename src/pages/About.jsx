@@ -1,3 +1,6 @@
+import { Link } from "react-router-dom";
+import GalleryCatlog from "../components/GalleryCatlog";
+
 const About = () => {
   return (
     <div className="row mt-5 ">
@@ -16,6 +19,7 @@ const About = () => {
           family outing, or a group visit, our system provides a smooth and
           efficient booking process.
         </p>
+        <Link to="about/gallery">Gallery</Link>
       </div>
     </div>
   );
