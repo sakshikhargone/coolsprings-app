@@ -2,7 +2,7 @@ const MyBookings = () => {
   return (
     <div className="row mt-5">
       <div className="col-sm-8">
-        <p>This is my booking page</p>
+        <p>Booking Form</p>
       </div>
     </div>
   );
