@@ -1,12 +1,12 @@
 import { Link } from "react-router-dom";
-import LogoImg from "../assets/logo[1].png";
+import logo from "../assets/logo.png";
 const Logo = () => {
   return (
     <div className="row">
       <div className="col-sm-8">
         <Link to="/">
           <img
-            src={LogoImg}
+            src={logo}
             alt="logo"
             className="rounded"
           />
