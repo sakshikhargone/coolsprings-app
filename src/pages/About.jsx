@@ -19,6 +19,7 @@ const About = () => {
           family outing, or a group visit, our system provides a smooth and
           efficient booking process.
         </p>
+        <hr />
         <Link to="about/gallery">Gallery</Link>
       </div>
     </div>
