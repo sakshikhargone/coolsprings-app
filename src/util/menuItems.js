@@ -5,6 +5,10 @@ export const getMenuItems = () => {
       text: "About",
     },
     {
+      url: "gallery",
+      text: "Gallery",
+    },
+    {
       url: "contact",
       text: "Contact",
     },

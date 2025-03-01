@@ -15,6 +15,9 @@ const appRoutes = () => {
         path="about"
         Component={About}></Route>
       <Route
+        path="gallery"
+        Component={Gallery}></Route>
+      <Route
         path="contact"
         Component={Contact}></Route>
       <Route
