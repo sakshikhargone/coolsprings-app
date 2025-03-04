@@ -2,7 +2,9 @@ const Contact = () => {
   return (
     <div className="row mt-5">
       <div className="col-sm-8">
-        <p>This is contact page</p>
+        <form
+          action="
+     "></form>
       </div>
     </div>
   );
