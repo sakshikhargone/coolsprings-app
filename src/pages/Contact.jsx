@@ -11,6 +11,15 @@ const Contact = () => {
               name="name"
             />
           </div>
+
+          <div>
+            <label html="name">Message</label>
+            <input
+              type="text"
+              className="form-control"
+              name="message"
+            />
+          </div>
         </form>
       </div>
     </div>
