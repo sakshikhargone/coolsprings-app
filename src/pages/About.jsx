@@ -11,13 +11,11 @@ const About = () => {
           designed exclusively for waterparks. Our platform ensures a fast,
           secure, and hassle-free ticketing experience, allowing visitors to
           book tickets, access detailed booking information, and track their
-          booking history with ease.
-          <hr />
-          At Coolspring, we prioritize user convenience and security by
-          integrating QR code-based entry, ensuring a contactless and seamless
-          check-in at the waterpark. Whether you're planning a solo trip, a
-          family outing, or a group visit, our system provides a smooth and
-          efficient booking process.
+          booking history with ease. At Coolspring, we prioritize user
+          convenience and security by integrating QR code-based entry, ensuring
+          a contactless and seamless check-in at the waterpark. Whether you're
+          planning a solo trip, a family outing, or a group visit, our system
+          provides a smooth and efficient booking process.
         </p>
         <hr />
         <Link to="about/gallery">Gallery</Link>
