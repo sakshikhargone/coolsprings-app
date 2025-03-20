@@ -1,0 +1,17 @@
+.waterpark {
+  max-width: 450px;
+  max-height: 450px;
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+@media screen and (width < 1000px) {
+  .waterpark {
+    max-width: 350px;
+    max-height: 370px;
+    object-fit: cover;
+    border-radius: 20px;
+  }
+}
