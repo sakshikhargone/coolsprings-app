@@ -1,12 +1,10 @@
-import Waterpark from "../assets/waterpark.png";
+import BookingForm from "../components/BookingForm";
+
 const Home = () => {
   return (
-    <div className="row mt-5">
-      <div className="col-sm-8">
-        <img
-          src={Waterpark}
-          alt="Waterpark"
-        />
+    <div className="row">
+      <div className="col-sm-9 offset-3">
+        <BookingForm />
       </div>
     </div>
   );
