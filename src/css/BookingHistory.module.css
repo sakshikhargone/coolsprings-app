@@ -1,0 +1,7 @@
+@media screen and (width < 1000px) {
+  .bookingDetail {
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+  }
+}
