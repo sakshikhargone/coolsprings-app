@@ -3,3 +3,10 @@
     margin-left: -50px;
   }
 }
+
+.submitBtn {
+  background: #fff;
+  color: #004aa3;
+  border: 1px solid #0084c4;
+  width: 125px;
+}
