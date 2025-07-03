@@ -34,7 +34,7 @@ Welcome to the **CoolSprings Water Park** web front-end! This application enable
    npm run start
    ```
  ## Live Screenshot 
- ![App](screenshots/Coolspring.png)
+ ![App](Screenshots/Coolspring.png)
 
 # Support
  For any technical query, please write to sakshi.khargone@gmail.com
