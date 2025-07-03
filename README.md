@@ -33,8 +33,8 @@ Welcome to the **CoolSprings Water Park** web front-end! This application enable
    ```bash
    npm run start
    ```
- ## Live Screenshot 
- ![App](Screenshots/Coolspring.png)
+ ## Live Screenshot 🌊
+ ![App](https://github.com/sakshikhargone/coolsprings-app/blob/a6b1f91a352433d2bbbc3ea5c3def1703ee8e13a/Coolspring.png)
 
 # Support
  For any technical query, please write to sakshi.khargone@gmail.com
