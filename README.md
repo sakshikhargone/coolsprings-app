@@ -32,7 +32,9 @@ Welcome to the **CoolSprings Water Park** web front-end! This application enable
 4. **Start the development server:**  
    ```bash
    npm run start
-   ```  
+   ```
+ ## Live Screenshot 
+ ![App](screenshots/Coolspring.png)
 
 # Support
  For any technical query, please write to sakshi.khargone@gmail.com
