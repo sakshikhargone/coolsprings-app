@@ -10,7 +10,7 @@ Welcome to the **CoolSprings Water Park** web front-end! This application enable
 ## Tech Stack  
 
 **Frontend:** React.js `v19`, Bootstrap, HTML5, Axios  
-**Backend:** .NET 5 with SQL Server  
+**Backend:** .NET 8 with SQL Server  
 
 ## Setup  
 
